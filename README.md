@@ -1,0 +1,1 @@
+This code is a test in which the person can enter their name and age, then this information will be saved and if the age is greater than 18 then a message should appear saying that this person can get a driver's license.
